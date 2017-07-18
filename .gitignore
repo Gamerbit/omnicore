@@ -11,7 +11,7 @@ src/omnicored
 src/omnicore-cli
 src/test/test_omnicore
 src/qt/test/test_omnicore-qt
-
+ 
 # autoreconf
 Makefile.in
 aclocal.m4
